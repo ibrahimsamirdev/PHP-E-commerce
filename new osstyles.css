@@ -1,0 +1,205 @@
+.cartbag {
+	background-image: url(images/cartbag.png);
+	background-repeat: no-repeat;
+	width: 180px;
+	padding-top: 10px;
+	height: 45px;
+}
+.text3 {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 12px;
+	color: #505050;
+	text-align: justify;
+}
+.price2 {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 15px;
+	font-weight: bold;
+	color: #FF6600;
+}
+
+
+.block {
+	clear: both;
+	padding-left: 6px;
+	background-repeat: repeat-y;
+}
+.block_back {
+	background-image: url(images/block%20backtile2.gif);
+	background-repeat: repeat-x;
+	width: 593px;
+}
+
+.block_title {
+	background-image: url(images/theme6_9x4.png);
+	background-repeat: repeat-x;
+	float: left;
+	width: 570px;
+	height: 35px;
+}
+.block_bottom {
+	background-image: url(images/theme6_14x2.png);
+	background-repeat: repeat-x;
+	float: left;
+	width: 575px;
+	height: 13px;
+}
+.link3 {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 13px;
+	color: #1D7DB8;
+}
+.link3 a:link, .link3 a:visited, .link3 a:active {
+	color: #1D7DB8;
+	text-decoration: none;
+}
+.link3 a:hover {
+	color: #FB7700;
+	text-decoration: none;
+}
+.link4 {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 12px;
+	color: #646464;
+}
+.link4 a:link, .link4 a:visited, .link4 a:active {
+	color: #517012;
+	text-decoration: none;
+}
+.link4 a:hover {
+	color: #628515;
+	text-decoration: none;
+	font-weight: bold;
+}
+.print {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 13px;
+	color: #646464;
+}
+.print a:link, .print a:visited, .print a:active {
+	color: #999999;
+	text-decoration: underline;
+}
+.print a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.title3 {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	float: left;
+	width: 400px;
+}
+.cat_title {
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding-top: 9px;
+	padding-left: 5px;
+	font-family: Tahoma, Verdana, Arial;
+}
+.cat_titleblock {
+	background-image: url(images/theme6_7x4.png);
+	background-repeat: repeat-x;
+	float: left;
+	width: 575px;
+	height: 36px;
+}
+.fields2 {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 12px;
+	color: #333333;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #587F19;
+	border-right-color: #D2E09C;
+	border-bottom-color: #D2E09C;
+	border-left-color: #587F19;
+	height: 18px;
+}
+.block2_A3 {
+	border: 1px solid #496376;
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 13px;
+	color: #B7B7B7;
+	padding-bottom: 15px;
+}
+.block2_B3 {
+	font-family: Arial, Tahoma, Verdana;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #222e37;
+	height: 20px;
+	padding-left: 15px;
+	border-top-width: 1px;
+	border-bottom-width: 2px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #849EB3;
+	border-bottom-color: #12181D;
+	padding-top: 3px;
+}
+.catitem {
+	color: #1D7DB8;
+	border: 1px solid #FFFFFF;
+	cursor:pointer;
+	font-family: tahoma, verdana, arial;
+	font-size: 13px;
+	cursor:pointer;
+	padding-top:3px;
+	width:188px;
+}
+.catitem_over {
+	color: #FB7700;
+	border: 1px solid #FF8022;
+	cursor:pointer;
+	font-family: tahoma, verdana, arial;
+	font-size: 13px;
+	cursor:pointer;
+	padding-top:3px;
+	width:188px;
+	background-color: #FFF5EA;
+}
+.subcategory {
+	font-family: tahoma, verdana, arial;
+	font-size: 13px;
+	width: 200px;
+	z-index: 10;
+	left: 220px;
+	top: 90px;
+	position: absolute;
+	background-color: #FFF5EA;
+	display: none;
+	border: 1px solid #FF8022;
+}
+.subcatitem {
+	color: #1D7DB8;
+	padding-top: 4px;
+	padding-right: 6px;
+	padding-bottom: 4px;
+	padding-left: 6px;
+	border: 1px solid #FFF5EA;
+	cursor:pointer;
+}
+.subcatitem_over {
+	color: #FF6600;
+	padding-top: 4px;
+	padding-right: 6px;
+	padding-bottom: 4px;
+	padding-left: 6px;
+	border: 1px solid #FF8022;
+	cursor:pointer;
+	background-color: #FFFFFF;
+}
+body {
+	background-color: #FFFFFF;
+}

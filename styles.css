@@ -1,0 +1,113 @@
+body, form {
+	margin: 0px;
+	padding: 0px;
+}
+.fields {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 11px;
+	color: #666666;
+	height: 18px;
+	width: 120px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #808080;
+	border-right-color: #cccccc;
+	border-bottom-color: #cccccc;
+	border-left-color: #808080;
+}
+
+.text1 {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 11px;
+	color: #5c5c5c;
+}
+.text2 {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 12px;
+	color: #404040;
+	text-align: justify;
+}
+.text3 {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 13px;
+	color: #006699;
+}
+
+
+.link1 {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 11px;
+	color: #0f659c;
+}
+.link1 a:link, .link1 a:visited, .link1 a:active {
+	color: #0f659c;
+	text-decoration: none;
+}
+.link1 a:hover {
+	color: #0f659c;
+	text-decoration: underline;
+}
+.link2 {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 12px;
+	color: #79848b;
+}
+.link2 a:link, .link2 a:visited, .link2 a:active {
+	color: #79848b;
+	text-decoration: none;
+}
+.link2 a:hover {
+	color: #0f659c;
+	text-decoration: underline;
+}
+.link3 {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 11px;
+	color: #808080;
+}
+.link3 a:link, .link3 a:visited, .link3 a:active {
+	color: #037ec1;
+	text-decoration: underline;
+}
+.link3 a:hover {
+	color: #037ec1;
+	text-decoration: none;
+}
+.link4 {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 11px;
+	color: #808080;
+}
+.link4 a:link, .link4 a:visited, .link4 a:active {
+	color: #808080;
+	text-decoration: none;
+}
+.link4 a:hover {
+	color: #FF6600;
+	text-decoration: none;
+}
+.imgs {
+	padding-top: 6px;
+	padding-left: 5px;
+}
+
+.imgs_div {
+	background-image: url(images/page_8x1.png);
+	background-repeat: no-repeat;
+	height: 103px;
+	width: 120px;
+	padding-top: 6px;
+	padding-left: 5px;
+	float: left;
+}
+.title1 {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 18px;
+	color: #006699;
+}

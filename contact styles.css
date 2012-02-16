@@ -1,0 +1,73 @@
+.tabletxt {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 12px;
+	color: #666666;
+}
+.tdtop {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #CCCCCC;
+}
+.tdbottom {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+.tdedges {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 12px;
+	color: #666666;
+}
+.tdleft1 {
+	font-weight: bold;
+	padding-left: 10px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #CCCCCC;
+	vertical-align: middle;
+}
+.tdleft2 {
+	font-weight: bold;
+	padding-left: 10px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #CCCCCC;
+	vertical-align: middle;
+	background-color: #EEEEEE;
+}
+.tdright1 {
+	padding-right: 10px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #CCCCCC;
+	vertical-align: middle;
+}
+
+.tdright2 {
+	padding-right: 10px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #CCCCCC;
+	vertical-align: middle;
+	background-color: #EEEEEE;
+}
+.emaillink {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 12px;
+	color: #0099FF;
+}
+.emaillink a:link, .emaillink a:visited, .emaillink a:active {
+	color: #006699;
+	text-decoration: underline;
+}
+.emaillink a:hover {
+	color: #0099D2;
+	text-decoration: underline;
+}
+.error {color: #FF0000}
